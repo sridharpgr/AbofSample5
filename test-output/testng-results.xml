@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86899" started-at="2017-07-15T05:27:52Z" finished-at="2017-07-15T05:29:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86899" started-at="2017-07-15T05:27:52Z" finished-at="2017-07-15T05:29:19Z">
+      <class name="com.script.FindNoOfProducts">
+        <test-method status="PASS" signature="startAppiumServer()[pri:0, instance:com.script.FindNoOfProducts@13deb50e]" name="startAppiumServer" is-config="true" duration-ms="34544" started-at="2017-07-15T10:57:17Z" finished-at="2017-07-15T10:57:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.script.FindNoOfProducts@13deb50e]" name="setup" is-config="true" duration-ms="47771" started-at="2017-07-15T10:57:52Z" finished-at="2017-07-15T10:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getBagCount()[pri:0, instance:com.script.FindNoOfProducts@13deb50e]" name="getBagCount" duration-ms="37290" started-at="2017-07-15T10:58:40Z" finished-at="2017-07-15T10:59:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBagCount -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.script.FindNoOfProducts@13deb50e]" name="teardown" is-config="true" duration-ms="1820" started-at="2017-07-15T10:59:17Z" finished-at="2017-07-15T10:59:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="stopServer()[pri:0, instance:com.script.FindNoOfProducts@13deb50e]" name="stopServer" is-config="true" duration-ms="742" started-at="2017-07-15T10:59:19Z" finished-at="2017-07-15T10:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopServer -->
+      </class> <!-- com.script.FindNoOfProducts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
